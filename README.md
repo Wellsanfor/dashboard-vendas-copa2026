@@ -18,5 +18,4 @@ O dashboard foi desenvolvido utilizando uma combinação de **Python** para gera
 
 ## 🚀 Como Reproduzir este Projeto
 1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+  
